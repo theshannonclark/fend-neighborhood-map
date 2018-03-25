@@ -1,1 +1,5 @@
+# Mac OS finder metadata
 .DS_Store
+
+# Node package directory
+node_modules/
