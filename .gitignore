@@ -3,3 +3,6 @@
 
 # Node package directory
 node_modules/
+
+# Webpack output directory
+dist/
